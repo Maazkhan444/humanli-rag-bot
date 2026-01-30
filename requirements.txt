@@ -2,8 +2,8 @@ streamlit
 requests
 beautifulsoup4
 langchain
+langchain-community
+langchain-text-splitters
 chromadb
 sentence-transformers
 groq
-langchain-text-splitters
-
