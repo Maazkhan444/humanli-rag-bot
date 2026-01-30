@@ -5,3 +5,5 @@ langchain
 chromadb
 sentence-transformers
 groq
+langchain-text-splitters
+
